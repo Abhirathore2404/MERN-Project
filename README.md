@@ -52,4 +52,6 @@ To run this project locally, follow these steps:
   Visit http://localhost:3000 in your browser to explore Wanderlust locally.
 
 ## Contribution
-Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
+Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated! and give feedbacks.
+
+
